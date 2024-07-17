@@ -11,5 +11,5 @@ login, and signup. I created this project when I was a 2nd year college student.
 You can clone this repository by 
 using the following command:
 ```bash
-git clone
+git clone https://github.com/RomeloDev/Java-Login-Signup-w-MySQL-DB
 ```
